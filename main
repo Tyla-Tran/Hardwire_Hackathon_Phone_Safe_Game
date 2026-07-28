@@ -6,7 +6,7 @@
 
 Wires wireModule;
 Maze mazeModule;
-SimonDays simonModule;
+SimonSays simonModule;
 Lock lockModule;
 
 //Update if game order is changed
